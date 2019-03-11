@@ -1,0 +1,40 @@
+header {
+    background: url(../img/ble.png) no-repeat no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.cadreBleu{
+    background-color: #4BCAFF;
+}
+
+.cadreGris{
+    background-color: rgba(81, 95, 103, 0.8);
+}
+
+.whoIsJohnDoe{
+    background: url(../img/appareilphoto.png) no-repeat no-repeat;
+    background-size: cover;
+    height: auto;
+
+}
+
+.contact{
+    background: url(../img/phototasse.png) no-repeat no-repeat;
+    background-size: cover;
+    height: auto;
+
+}
+
+footer{
+    background-color: #353F47;
+}
+
+.ecrit1{
+   font-size: 75%; 
+}
+.ecrit2{
+    color:#515F67 ;
+
+}
